@@ -1,7 +1,7 @@
 <?php
 /*
-  Plugin Name: Gewinnspielteilnahme Bedingungen (CCC (Comment Competition Confirm))
-  Plugin URI: http://github.com/nepda/wp-plugin-comment-competition-confirm
+  Plugin Name: Comment Competition Confirm - CCC
+  Plugin URI: http://github.com/nepda/wp-plugin-ccc
   Description: Fuegt fuer gewisse Beitraege eine zusaetzliche Checkbox an das Kommentarformular um beispielsweise Gewinnspielteilnamebedingungen per Kommentar zu akzeptieren.
   Version: 1.0
   Author: Nepomuk Fraedrich
