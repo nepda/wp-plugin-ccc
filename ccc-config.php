@@ -28,9 +28,11 @@ define('CCC_COLUMN_NAME',     'competition_rules');
  * This CCC_CHECKBOX_TEXT will appear as label for your checkbox. You can place a link inside to your competition
  * conditions
  */
-define('CCC_CHECKBOX_TEXT',   'Wenn Sie am Gewinnspiel teilnehmen m&ouml;chten, lesen Sie bitte
-                               <a href="/gewinnspiel-teilnahmebedingungen">die Gewinnspiel Teilnahmebedingungen</a> und
-                               stimmen ihnen zu. Ansonsten kann Ihre Antwort leider nicht ausgewertet werden.');
+define('CCC_CHECKBOX_TEXT',   'Hiermit bestätige ich, dass ich
+                               <a title="zu den Teilnahmebedingungen (neues Fenster)" target="_blank"
+                                    href="/gewinnspiel-teilnahmebedingungen">
+                               die Teilnahmebedingungen gelesen</a> habe und akzeptiere.
+                               Andernfalls kann meine Antwort leider nicht berücksichtigt werden.');
 
 /**
  * CCC_CHECKED_VALUE will be put in the DB and shown in your admin dashboard if the user has checked the checkbox
